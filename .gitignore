@@ -1,5 +1,7 @@
 # Custom
 /data
+artifacts
+output
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
